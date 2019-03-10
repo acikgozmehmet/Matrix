@@ -6,16 +6,18 @@
 * [Setup](#setup)
 
 ## General info
-This class performs matrix operations in a dynamically allocated memory.
-
 Matrix class can handle the following matrix operations with **interactive** and **file input/output** options.
-    * matrix addition,
-    * matrix subtraction,
-    * matrix multiplication,
-    * scalar product
-    * determinant
-    * inverse
-    * transpose
+It performs the following matrix operations in a **dynamically allocated memory**.
+* matrix addition,
+* matrix subtraction,
+* matrix multiplication,
+* scalar product
+* determinant
+* inverse
+* transpose
+
+
+
 
 ## Technologies
 Project is created in C++
